@@ -6,4 +6,6 @@
 - dependency for spring mvc: spring-webmvc  
 
 - Access the endpoint to view the original default jsp page generated at the time of project creation:   
-http://localhost:8080/spring-mvc-maven-web 
+http://localhost:8080/spring-mvc-maven-web
+
+- git remote add origin git@github.com-abhishek777:abhishekgot/spring-mvc-maven-web.git  
